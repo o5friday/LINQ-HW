@@ -1,0 +1,9 @@
+E:\Programming\#mentoring2016\Task\Task\bin\Debug\Task.exe.config
+E:\Programming\#mentoring2016\Task\Task\bin\Debug\Task.exe
+E:\Programming\#mentoring2016\Task\Task\bin\Debug\Task.pdb
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\Task.Properties.Resources.resources
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\Task.exe
+E:\Programming\#mentoring2016\Task\Task\obj\Debug\Task.pdb
